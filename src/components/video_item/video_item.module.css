@@ -3,12 +3,13 @@
   border: 1px solid lightgray;
   padding: 0.2em;
   box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 10px rgba(0, 0, 0, 0);
-  cursor: pointer;
+  margin-bottom: 0.5em;
   transition: transform 250ms ease-in;
 }
 .video {
   display: flex;
   align-items: center;
+  cursor: pointer;
   
 }
 
