@@ -3,4 +3,11 @@
 }
 .description{
     white-space:pre-wrap;
+    margin:1rem;
+}
+h3{
+margin:1rem;
+}
+h2{
+    margin:1rem;
 }
